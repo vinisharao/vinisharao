@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vinisha</h1>
+<h1 align="center">Hi there, I'm Vinisha 👋</h1>
 <h3 align="center">An aspiring developer and curious learner currently pursuing IT, exploring the world of software and technology.</h3>
 
 - 🌱 I’m currently learning **HTML,CSS**
 - 📫 How to reach me **vinisharao924@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact **I love classical dance and guitar**
-
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vinisharao)
 
 
 <!---
