@@ -7,6 +7,8 @@
 - ⚡ Fun fact **I love classical dance and guitar**
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vinisharao)
+[![Codechef](https://img.shields.io/badge/Codechef-brown?logo=codechef)](https://codechef.com/vinisharao924)
+
 
 
 <!---
