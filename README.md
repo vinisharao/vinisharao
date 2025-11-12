@@ -8,7 +8,7 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vinisharao)
 [![Codechef](https://img.shields.io/badge/Codechef-brown?logo=codechef)](https://www.codechef.com/users/vinisharao924)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=LeetCode)](https://leetcode.com/u/vinisharao924)
 
 
 <!---
