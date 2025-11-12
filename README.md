@@ -6,9 +6,14 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact **I love classical dance and guitar**
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/vinisharao)
-[![Codechef](https://img.shields.io/badge/Codechef-brown?logo=codechef)](https://www.codechef.com/users/vinisharao924)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=LeetCode)](https://leetcode.com/u/vinisharao924)
+## Connect with me:
+
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vinisharao)  
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/vinisharao)  
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_logo_black.png)](https://leetcode.com/u/vinisharao924)  
+[![CodeChef](https://upload.wikimedia.org/wikipedia/commons/0/0d/CodeChef_logo.svg)](https://www.codechef.com/users/vinisharao924)  
+[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/6e/HackerRank_Icon.svg)](https://www.hackerrank.com/profile/vinisharao924)
+
 
 
 <!---
