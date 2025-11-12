@@ -6,13 +6,24 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact **I love classical dance and guitar**
 ### 🌐 Connect with me:
-## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinisharao">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+  </a>
+  <a href="https://github.com/vinisharao">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
+  </a>
+  <a href="https://leetcode.com/u/vinisharao924">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
+  </a>
+  <a href="https://www.codechef.com/users/vinisharao924">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/CodeChef_logo.svg" alt="CodeChef" width="30" height="30">
+  </a>
+  <a href="https://www.hackerrank.com/profile/vinisharao924">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/HackerRank_Icon.svg" alt="HackerRank" width="30" height="30">
+  </a>
+</p>
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vinisharao)  
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/vinisharao)  
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_logo_black.png)](https://leetcode.com/u/vinisharao924)  
-[![CodeChef](https://upload.wikimedia.org/wikipedia/commons/0/0d/CodeChef_logo.svg)](https://www.codechef.com/users/vinisharao924)  
-[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/6e/HackerRank_Icon.svg)](https://www.hackerrank.com/profile/vinisharao924)
 
 
 
