@@ -16,12 +16,6 @@
   <a href="https://leetcode.com/u/vinisharao924">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="30" height="30">
   </a>
-  <a href="https://www.codechef.com/users/vinisharao924">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="codechef" width="30" height="30">
-  </a>
-  <a href="https://www.hackerrank.com/profile/vinisharao924">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="hackerrank" width="30" height="30">
-  </a>
 </p>
 
 
